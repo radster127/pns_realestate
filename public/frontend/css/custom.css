@@ -1,0 +1,152 @@
+#sectionPreview{
+	
+	background-color: white;
+
+}
+#sectionPreview:hover{
+
+	cursor: default;
+
+}
+
+textarea {
+   resize: none;
+}
+
+.fancybox-opened{
+
+	width: 70% !important;
+
+}
+
+.fancybox-skin{
+
+	background-color: white !important;
+
+}
+
+.fancybox-image{
+
+	width: 100% !important;
+	min-height: 480px !important;
+
+}
+.fancybox-inner{
+
+	width: 100% !important;
+	overflow: hidden !important;
+
+}
+#fan-img-details{
+
+	padding-right: 40px;
+	padding-top: 40px; 
+	word-wrap: break-word;
+
+}
+
+#img-thumb p {
+    width: 600px;
+}
+
+#img-thumb {
+
+    height: 110px;
+    padding: 0 5px;
+    position: relative;
+}
+
+#buildingCarousel{
+
+    margin-top: 0px;
+
+}
+
+#location, #work{
+
+	background-color: #F0F0F0;
+}
+
+#map_wrapper{
+	background-color: white;
+}
+
+#build-details td{
+
+	padding: 5px;
+	border: 3px solid #ddd;
+
+}
+
+#build-details span{
+
+	float: right;
+
+}
+
+#build-details table{
+
+	width: 100%;
+	margin-right: 10px;
+
+}
+
+.preview-details{
+
+	background-color: white;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border: 1px solid #ddd;
+
+}
+
+.isotope-item{
+
+	background-color: rgba(0,0,0,0);
+
+}
+
+.item img{
+
+	width: 100%;
+	/*max-height: 500px;*/
+
+}
+#build-details b{
+
+	color: #383434;
+
+}
+
+.preview-details b{
+
+	color: #383434;
+
+}
+
+#mainNav a{
+
+	color: white;
+	border-radius: 0px;
+
+}
+
+#mainNav a:hover{
+
+	border-bottom: 2px solid #fff;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(255, 255, 255);
+    border-radius: 0px;
+
+}
+
+#mainNav a{
+	margin: 20px 10px;
+}
+
+
+
+
